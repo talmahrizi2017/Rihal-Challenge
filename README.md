@@ -6,7 +6,8 @@ The image is included in the file and must be the same loction as it is with sou
 
 For the OCR, an open source library called (easyocr) was used and must be istalled for the OCR detection to work
 To install easyocr:
-- pip install easyocr
+- Open terminal
+- Type: pip install easyocr
 
 Everything about the easyocr library in the link:
 - https://github.com/JaidedAI/EasyOCR
